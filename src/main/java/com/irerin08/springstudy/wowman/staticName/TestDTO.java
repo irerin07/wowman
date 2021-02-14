@@ -1,7 +1,5 @@
-package com.irerin08.springstudy.wowman;
+package com.irerin08.springstudy.wowman.staticName;
 
-import lombok.AllArgsConstructor;
-import lombok.Data;
 import lombok.Getter;
 
 //@Data

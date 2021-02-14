@@ -1,4 +1,4 @@
-package com.irerin08.springstudy.wowman;
+package com.irerin08.springstudy.wowman.staticName;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
